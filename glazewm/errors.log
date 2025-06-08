@@ -1,0 +1,126 @@
+[2m2025-02-25T18:06:34.726227Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-02-25T18:09:18.920111Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-25T18:09:22.979878Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-25T18:09:24.244091Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-25T18:09:25.008910Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-25T18:09:25.433994Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-25T18:09:25.848516Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-27T06:03:36.780788Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 253 column 15
+[2m2025-02-27T06:04:18.136410Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 253 column 15
+[2m2025-02-27T06:04:22.012057Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 253 column 15
+[2m2025-02-27T06:05:00.736623Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 253 column 15
+[2m2025-02-27T06:05:26.999955Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 253 column 15
+[2m2025-02-27T06:09:33.713671Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 254 column 15
+[2m2025-03-06T22:16:40.657349Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-28T15:45:25.432093Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-28T15:45:27.625147Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:02.116130Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:04.593283Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:05.313016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:05.503676Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:12.865538Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:13.613295Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:14.952948Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:34.940546Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:35.258651Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:35.473528Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:35.801341Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:36.148689Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:05:36.510340Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:09:22.087566Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:09:24.029473Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-31T09:09:24.418730Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-03T04:33:01.902184Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:13.923964Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:14.870082Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:15.259004Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:15.623890Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:15.975866Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:16.370026Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:26.725483Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:27.443525Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:27.644820Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:27.841927Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:28.005159Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:28.172562Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-03T04:33:28.337289Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-07T19:45:04.703792Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[17].commands: unrecognized subcommand
+ at line 225 column 15
+[2m2025-04-07T19:51:13.086583Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name 'spec' doesn't exist or is already active.
+[2m2025-04-07T19:52:20.696543Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name 'spec' doesn't exist or is already active.
+[2m2025-04-07T23:11:03.591251Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: unrecognized subcommand
+ at line 5 column 21
+[2m2025-04-07T23:11:24.114630Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: unrecognized subcommand
+ at line 5 column 21
+[2m2025-04-07T23:12:13.351736Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 255 column 15
+[2m2025-04-07T23:13:01.180865Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'Start-Process D:\apps-win\WezTerm\wezterm-gui.exe -Verb RunAs'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-07T23:15:24.487537Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'start Start-Process D:\apps-win\WezTerm\wezterm-gui.exe -Verb RunAs'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-07T23:17:32.934903Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'pwsh Start-Process D:\apps-win\WezTerm\wezterm-gui.exe -Verb RunAs'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-08T09:15:48.491763Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'Start-Process D:\apps-win\WezTerm\wezterm-gui.exe -Verb RunAs'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-08T09:16:21.859238Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'Start-Process D:\apps-win\WezTerm\wezterm-gui.exe -Verb RunAs'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-08T09:28:42.980405Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '11' doesn't exist or is already active.
+[2m2025-04-09T11:25:54.914572Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[25].commands: unrecognized subcommand
+ at line 261 column 15
+[2m2025-04-12T17:35:33.262244Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-15T10:27:20.289131Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-21T00:33:26.158741Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:13:48.316570Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:13:49.177896Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:13:49.820163Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:53.819029Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:54.693867Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:55.226516Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:55.593864Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:55.990077Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:56.299201Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:56.551046Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:56.793809Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:57.060097Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:57.290534Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:57.568367Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:57.808005Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:19:59.529602Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:00.294728Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:20:02.331177Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:20:03.493042Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:03.850578Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:05.089043Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:05.672452Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:05.844490Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:06.029338Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:06.406651Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:06.608040Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:20:06.942694Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:20:07.534981Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:07.793691Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:08.092698Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:08.997785Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:09.183052Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:09.372441Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:09.722642Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:09.946799Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:20:10.325807Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:23:24.340603Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:23:24.979017Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:23:26.285437Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-04-21T03:23:27.046860Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:23:28.053710Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-04-21T03:25:07.744720Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-05-16T05:53:54.908539Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
